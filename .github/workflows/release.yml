@@ -15,6 +15,6 @@ jobs:
           title: "v$semver"
           tag: "v$semver"
           changelog-entry: "$semver"
-          regex: "/from miguelnietoa\\/v#{major}\\.#{minor}$/"
+          regex: "/^Merge pull request #\\d+ from miguelnietoa\\/v\\d+\\.\\d+$/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
