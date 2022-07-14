@@ -1,5 +1,5 @@
 {
-  "name": "editorjs-toggle-block",
+  "name": "miguelnietoa-editorjs-toggle-block",
   "version": "0.3.1",
   "description": "Toogle block tool for Editor.js",
   "main": "./dist/bundle.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kommitters/editorjs-toggle-block.git"
+    "url": "git+https://github.com/miguelnietoa/editorjs-toggle-block.git"
   },
   "keywords": [
     "toggle",
@@ -22,14 +22,13 @@
     "editorjs"
   ],
   "author": {
-    "name": "kommitters Open Source",
-    "email": "oss@kommit.co"
+    "name": "miguelnietoa Open Source"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kommitters/editorjs-toggle-block/issues"
+    "url": "https://github.com/miguelnietoa/editorjs-toggle-block/issues"
   },
-  "homepage": "https://github.com/kommitters/editorjs-toggle-block#readme",
+  "homepage": "https://github.com/miguelnietoa/editorjs-toggle-block#readme",
   "devDependencies": {
     "@babel/core": "^7.16.7",
     "@babel/preset-env": "^7.16.8",
