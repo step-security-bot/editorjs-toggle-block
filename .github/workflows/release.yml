@@ -15,5 +15,6 @@ jobs:
           title: "v$semver"
           tag: "v$semver"
           changelog-entry: "$semver"
+          regex: "/from miguelnietoa\\/v#{major}\\.#{minor}$/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
