@@ -1,3 +1,9 @@
+## 0.3.1 (14.07.2022)
+
+* This is just a test
+* Another test
+* One more
+
 ## 0.3.0 (14.07.2022)
 
 * Add workflow for publising to npm
