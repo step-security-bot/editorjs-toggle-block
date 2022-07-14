@@ -1,3 +1,7 @@
+## 0.3.0 (14.07.2022)
+
+* Add workflow for publising to npm
+
 ## 0.2.2 (13.07.2022)
 
 * Replace `crypto.randomUUID()` with `uuid.v4()` to avoid incompatibilities between different browser's versions.
